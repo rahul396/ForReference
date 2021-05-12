@@ -1,0 +1,482 @@
+{
+                "personDetails": [{
+                                "participantData": {
+                                                "userCaseType": {
+                                                                "taxation": "TX",
+                                                                "bequestAmount": 256.46,
+                                                                "bequestInflationType": "Now",
+                                                                "inRetirementSupported": "False",
+                                                                "isQuestionnaireMandatory": "True",
+                                                                "additionalLimits": {
+                                                                                "limit": [{
+                                                                                                                "name": "Limit1",
+                                                                                                                "amount": 2629.05065
+                                                                                                },
+                                                                                                {
+                                                                                                                "name": "Limit2",
+                                                                                                                "amount": 26.05
+                                                                                                }
+                                                                                ]              
+                                                                },
+                                                                "advisableGMWB": [{
+                                                                                                "annualFee": 0.470000,
+                                                                                                "fundLineupIdentifier": "Mutualfunds",
+                                                                                                "id": "1001",
+                                                                                                "paymentStartYear": 2027,
+                                                                                                "gmwbOptions": {
+                                                                                                                "benefitBaseCap": 225.620000,
+                                                                                                                "highWaterMark": 485.600000,
+                                                                                                                "maximumAnnualWithdrawalPercentage": 0.900000,
+                                                                                                                "riderContinuesForSpouse": "False",
+                                                                                                                "riderFeePercentage": 0.880000,
+                                                                                                                "stepUpEndPoint": 30106,
+                                                                                                                "withdrawalStarted": "False"
+                                                                                                },
+                                                                                                "holdings": [{
+                                                                                                                                "gmwb": "False",
+                                                                                                                                "fundUniqueIdentifier": "Mutualfunds Fixed"
+                                                                                                                },
+                                                                                                                {
+                                                                                                                                "gmwb": "True",
+                                                                                                                                "fundUniqueIdentifier": "Mutualfunds Variable"
+                                                                                                                }
+                                                                                                ],
+                                                                                                "savingsPlan": {
+                                                                                                                "savingsRatePrecision": "Whole",
+                                                                                                                "amount": {
+                                                                                                                                "inflationAdjustment": "Now",
+                                                                                                                                "value": 16761.360000
+                                                                                                                }
+                                                                                                }
+                                                                                },
+                                                                                {
+                                                                                                "annualFee": 0.46000,
+                                                                                                "fundLineupIdentifier": "ggggggggggg",
+                                                                                                "id": "tttttttttttt",
+                                                                                                "paymentStartYear": 2028,
+                                                                                                "gmwbOptions": {
+                                                                                                                "benefitBaseCap": 25.620000,
+                                                                                                                "highWaterMark": 85.6,
+                                                                                                                "maximumAnnualWithdrawalPercentage": 0.900000,
+                                                                                                                "riderContinuesForSpouse": "False",
+                                                                                                                "riderFeePercentage": 0.880000,
+                                                                                                                "stepUpEndPoint": 30106,
+                                                                                                                "withdrawalStarted": "False"
+                                                                                                },
+                                                                                                "holdings": [{
+                                                                                                                                "gmwb": "False",
+                                                                                                                                "fundUniqueIdentifier": "Mutualfunds Fixed"
+                                                                                                                },
+                                                                                                                {
+                                                                                                                                "gmwb": "True",
+                                                                                                                                "fundUniqueIdentifier": "Mutualfunds Variable"
+                                                                                                                }
+                                                                                                ],
+                                                                                                "savingsPlan": {
+                                                                                                                "savingsRatePrecision": "Whole",
+                                                                                                                "amount": {
+                                                                                                                                "inflationAdjustment": "Now",
+                                                                                                                                "value": 16761.360000
+                                                                                                                }
+                                                                                                }
+                                                                                }
+                                                                ],
+                                                                "defaultGMWBAmountInputs": {
+                                                                                "bequestMotive": 0,
+                                                                                "chanceToMaintainInvestment": 0.730000,
+                                                                                "subjectiveLifeExpectancy": 0
+                                                                },
+                                                                "genericCashflow": [{
+                                                                                "account": "account101",
+                                                                                "amount": -2000,
+                                                                                "endYear": 2030,
+                                                                                "inflationType": "Now",
+                                                                                "isIncomingCashflow": "False",
+                                                                                "name": "SamAccount",
+                                                                                "premium": 0.000000,
+                                                                                "startYear": 2020,
+                                                                                "type": "PublicCollege"
+                                                                }],
+                                                                "investor": {
+                                                                                "job": {
+                                                                                                "employmentId": 1001,
+                                                                                                "adjustmentPremium": -0.920000,
+                                                                                                "inflationType": "None",
+                                                                                                "matchingStructures": [{
+                                                                                                                "planID": "LongTerm",
+                                                                                                                "planName": "Saving Plan 101K",
+                                                                                                                "contributionLimit": {
+                                                                                                                                "percentage": 0.960000
+                                                                                                                },
+                                                                                                                "matchingTier": [{
+                                                                                                                                                "matchAmount": {
+                                                                                                                                                                "percentage": 1.700000
+                                                                                                                                                },
+                                                                                                                                                "upperLimit": {
+                                                                                                                                                                "percentage": 0.120000
+                                                                                                                                                }
+                                                                                                                                },
+                                                                                                                                {
+                                                                                                                                                "matchAmount": {
+                                                                                                                                                                "percentage": 1.700000
+                                                                                                                                                },
+                                                                                                                                                "upperLimit": {
+                                                                                                                                                                "percentage": 0.960000
+                                                                                                                                                }
+                                                                                                                                }
+                                                                                                                ]
+                                                                                                }]
+                                                                                },
+                                                                                "pension": [{
+                                                                                                "adjustmentPremium": 0.420000,
+                                                                                                "continueInflationAfterStartAge": "False",
+                                                                                                "inflationType": "Now",
+                                                                                                "monthlyDollarBasis": 5000,
+                                                                                                "pensionID": "aaaaaaaaa",
+                                                                                                "pensionName": "BBBBBBBBBB",
+                                                                                                "startAge": 113,
+                                                                                                "taxable": "True"
+                                                                                }],
+                                                                                "stockOption": [{
+                                                                                                                "assetClassName": "FixedAsset",
+                                                                                                                "expirationYear": 3552,
+                                                                                                                "grantYear": 20243,
+                                                                                                                "incrVestPct": 0.960000,
+                                                                                                                "initVestPct": 0.730000,
+                                                                                                                "qualified": "False",
+                                                                                                                "shares": 113.750000,
+                                                                                                                "stockPrice": 9228.960000,
+                                                                                                                "strikePrice": 101.700000,
+                                                                                                                "vestYear": 16732
+                                                                                                },
+                                                                                                {
+                                                                                                                "assetClassName": "VariableAsset",
+                                                                                                                "expirationYear": 25631,
+                                                                                                                "grantYear": 21840,
+                                                                                                                "incrVestPct": 0.880000,
+                                                                                                                "initVestPct": 0.850000,
+                                                                                                                "qualified": "False",
+                                                                                                                "shares": 2511.330000,
+                                                                                                                "stockPrice": 13630.500000,
+                                                                                                                "strikePrice": 10236.420000,
+                                                                                                                "vestYear": 20451
+                                                                                                }
+                                                                                ]
+                                                                }
+                                                },
+                                                "lastModified": "2018-03-17"
+                                },
+                                "managedUserId": 927799,
+                                "personId": 125,
+                                "investorId": 5,
+                                "title": "Mr",
+                                "firstName": "Chandler",
+                                "middleName": "LE",
+                                "lastName": "BEIGE",
+                                "nameSuffix": "Sir",
+                                "birthDate": "1982-04-02",
+                                "ssn": "980593978",
+                                "ssnExtn": "9805",
+                                "isHeadOfHousehold": "True",
+                                "isRetired": "False",
+                                "isParticipant": "True",
+                                "lifeExpectencyAge": 95,
+                                "retirementAge": 67,
+                                "numberOfDependents": 0,
+                                "emailAddress": "a1982345@gwg.com",
+                                "stateCode": "TX",
+                                "countryCode": "US",
+                                "maritalStatus": "MARRIED",
+                                "gender": "Male",
+                                "employment": {
+                                                "employmentId": 1001,
+                                                "investorId": 5,
+                                                "sponsorId": "SE1001",
+                                                "sponsorName": "SAM",
+                                                "jobName": "IT Guy",
+                                                "jobDescription": "Sofware Engineer",
+                                                "hireYear": 2015,
+                                                "separatedForService": "False",
+                                                "dataSource": "uxauv",
+                                                "annualSalary": 90000,
+                                                "additionalCurrentIncome": 34
+                                },
+                                "retirementNeed": {
+                                                "retirementNeedId": 79,
+                                                "personId": 125,
+                                                "percentage": 0,
+                                                "amount": 20000,
+                                                "dataSource": "uxauv"
+                                },
+                                "socialSecurity": {
+                                                "id": 1001,
+                                                "personId": 125,
+                                                "selStartAge": 30,
+                                                "monthlyBenefit": 5000,
+                                                "monthlyBenefitFlag": "True",
+                                                "monthlyBenefitOverride": 200,
+                                                "dataSourceId": "max",
+                                                "overrideId": "USER_AGE_USER_AMOUNT"
+                                },
+                                "savingsGoals": [{
+                                                                "investorAccountId": 926,
+                                                                "name": "TestNavneet'Fund",
+                                                                "annualAmount": 50000,
+                                                                "estimatedStartYear": 2024,
+                                                                "estimatedEndYear": 2028,
+                                                                "isUntilLifeExpectancy": "False",
+                                                                "isInheritance": "False",
+                                                                "lastModifiedOn": "2018-02-22"
+                                                },
+                                                {
+                                                                "investorAccountId": 927,
+                                                                "name": "Test2Fund",
+                                                                "annualAmount": 100000,
+                                                                "estimatedStartYear": 2024,
+                                                                "estimatedEndYear": 2028,
+                                                                "isUntilLifeExpectancy": "False",
+                                                                "isInheritance": "True",
+                                                                "lastModifiedOn": "2018-02-22"
+                                                }
+                                ],
+                                "retirementIncomeDetails": [{
+                                                                "name": "Part time Job",
+                                                                "investorId": 5,
+                                                                "investorAccountId": 928,
+                                                                "estimatedAnnualAmount": 50000,
+                                                                "costOfLivingAdjustable": "False",
+                                                                "adjustmentAmount": 500,
+                                                                "taxable": "True",
+                                                                "pension": "False",
+                                                                "estimatedStartYear": 2024,
+                                                                "estimatedEndYear": 2035,
+                                                                "estimatedStartAge": 72,
+                                                                "estimatedEndAge": 80,
+                                                                "untilLifeExpectancy": "True",
+                                                                "dataSource": "uxauv",
+                                                                "lastModifiedOn": "2018-02-22"
+                                                },
+                                                {
+                                                                "name": "fulltime",
+                                                                "investorId": 5,
+                                                                "investorAccountId": 929,
+                                                                "estimatedAnnualAmount": 100000,
+                                                                "costOfLivingAdjustable": "False",
+                                                                "adjustmentAmount": 500,
+                                                                "taxable": "False",
+                                                                "pension": "False",
+                                                                "estimatedStartYear": 2022,
+                                                                "estimatedEndYear": 2035,
+                                                                "estimatedStartAge": 70,
+                                                                "estimatedEndAge": 80,
+                                                                "untilLifeExpectancy": "True",
+                                                                "dataSource": "uxauv",
+                                                                "lastModifiedOn": "2018-02-22"
+                                                }
+                                ],
+                                "enrollmentData": [{
+                                                "id": 1001,
+                                                "investorAccountId": 2001,
+                                                "plServiceLevelId": 3001,
+                                                "plPlanStatusId": 2,
+                                                "jobName": "Developer",
+                                                "enrollmentStartDate": "2016-03-27T13:44:16Z",
+                                                "enrollmentEndDate": "2017-03-27T13:44:16Z",
+                                                "optOutDate": "2018-03-27T13:44:16Z",
+                                                "optOutReason": "NoReason",
+                                                "maEnrollEventId": 453
+                                }],
+                                "otherAssetDetails": [{
+                                                "id": "92",
+                                                "investorId": "567",
+                                                "accountTypeCode": "403B",
+                                                "accountProviderName": "ALLNZ",
+                                                "accountTypeName": "403(b)",
+                                                "accountBalance": "4589.89",
+                                                "currentContribution": {
+                                                                "id": "97",
+                                                                "plCurrentContributionCode": "MIX",
+                                                                "contributionDetail": [{
+                                                                                                "id": "478",
+                                                                                                "plContributionTypeCode": "PRE",
+                                                                                                "contributionPercentageFlag": "True",
+                                                                                                "contributionValue": "10"
+                                                                                },
+                                                                                {
+                                                                                                "id": "479",
+                                                                                                "plContributionTypeCode": "ROTH",
+                                                                                                "contributionPercentageFlag": "True",
+                                                                                                "contributionValue": "10"
+                                                                                },
+                                                                                {
+                                                                                                "id": "480",
+                                                                                                "plContributionTypeCode": "PST",
+                                                                                                "contributionPercentageFlag": "False",
+                                                                                                "contributionValue": "10"
+                                                                                }
+                                                                ],
+                                                                "employerMatchFlag": "True",
+                                                                "employerMatchDetail": [{
+                                                                                                "id": "643",
+                                                                                                "sequenceNumber": "1",
+                                                                                                "matchValuePercentageFlag": "False",
+                                                                                                "matchValue": "1800.42",
+                                                                                                "limitValuePercentageFlag": "False",
+                                                                                                "limitValue": "1900.42"
+                                                                                },
+                                                                                {
+                                                                                                "id": "644",
+                                                                                                "sequenceNumber": "2",
+                                                                                                "matchValuePercentageFlag": "False",
+                                                                                                "matchValue": "1000.12",
+                                                                                                "limitValuePercentageFlag": "False",
+                                                                                                "limitValue": "1500.12"
+                                                                                },
+                                                                                {
+                                                                                                "id": "655",
+                                                                                                "sequenceNumber": "3",
+                                                                                                "matchValuePercentageFlag": "False",
+                                                                                                "matchValue": "1000.12",
+                                                                                                "limitValuePercentageFlag": "False",
+                                                                                                "limitValue": "1500.12"
+                                                                                }
+                                                                ],
+                                                                "profitSharingFlag": "True",
+                                                                "profitSharingPercentage": "75",
+                                                                "profitSharingAmount": "899.76"
+                                                },
+                                                "investment": {
+                                                                "id": "5",
+                                                                "plInvestmentTypeCode": "SMEMP",
+                                                                "investmentRiskBasedPortfolio": {
+                                                                                "id": "7",
+                                                                                "plRiskLevelCode": "MDRT"
+                                                                },
+                                                                "investmentAssetAllocation": [{
+                                                                                                "id": "2",
+                                                                                                "plAssetCode": "USLC",
+                                                                                                "assetAllocationPercentage": "80"
+                                                                                },
+                                                                                {
+                                                                                                "id": "3",
+                                                                                                "plAssetCode": "BND",
+                                                                                                "assetAllocationPercentage": "20"
+                                                                                }
+                                                                ],
+                                                                "investmentFundHoldings": [{
+                                                                                "id": "5",
+                                                                                "fundIdentifier": "1001",
+                                                                                "fundAllocationAmount": "2000.05"
+                                                                }]
+                                                },
+                                                "plAdviseCode": "ADVNO",
+                                                "assetAllocationAdvisableFlag": "False",
+                                                "savingsRateAdvisableFlag": "False"
+                                }],
+                                "account": [{
+                                                "accountDefinitionName": "empower",
+                                                "advisableGMWB": "aaaaaaaaaaaaaaaaaaa",
+                                                "annualFee": 0.520000,
+                                                "applySRA": "t",
+                                                "commission": 0.700000,
+                                                "endYear": 31531,
+                                                "feeType": "MutualFund",
+                                                "fundLineupIdentifier": "P_PNP_0004024",
+                                                "id": "98960-01~Pretax401k",
+                                                "name": "BROWN ORANGE RED~98960-01",
+                                                "rkEnrollmentType": "Advice",
+                                                "rate": 0.880000,
+                                                "smartEnabled": "True",
+                                                "smartIncrementDefinition": "Dollars",
+                                                "startYear": 2018,
+                                                "surrenderChargeYear": 2026,
+                                                "transientAccountSessionId": "AKOP400419236",
+                                                "transientAccountSessionToken": "AKOP400419236",
+                                                "holdingsBalance": 4780.160000,
+                                                "holdingsBasis": 4071.600000,
+                                                "jobName": 123,
+                                                "planID": "98960-01",
+                                                "additionalLimits": {
+                                                                "additionalLimit": [{
+                                                                                "name": "Limit for this role"
+                                                                }]
+                                                },
+                                                "annuity": {
+                                                                "air": 0.200000,
+                                                                "annuityTaxType": "MixedTax",
+                                                                "beneficiaryPercentage": 0.220000,
+                                                                "inflationType": "Now",
+                                                                "lifetimeCap": 5201.260000,
+                                                                "lifetimeFloor": 3446.960000,
+                                                                "payment": 321.640000,
+                                                                "paymentStartYear": 15498,
+                                                                "periodCertain": 11267,
+                                                                "periodFloor": -0.020000,
+                                                                "salesTax": 0.650000
+                                                },
+                                                "gmwbOptions": {
+                                                                "benefitBaseCap": 6169.480000,
+                                                                "highWaterMark": 3055.390000,
+                                                                "maximumAnnualWithdrawalPercentage": 0.030000,
+                                                                "riderContinuesForSpouse": "False",
+                                                                "riderFeePercentage": 0.280000,
+                                                                "stepUpEndPoint": 18631,
+                                                                "withdrawalStarted": "True"
+                                                },
+                                                "holdings": [{
+                                                                                "fundUniqueIdentifier": "Fixed Identifier",
+                                                                                "weight": "0.070000",
+                                                                                "restriction": {
+                                                                                                "percentage": 0.950000,
+                                                                                                "type": "Standard"
+                                                                                }
+                                                                },
+                                                                {
+                                                                                "fundUniqueIdentifier": "Variable Identifier",
+                                                                                "weight": 0.770000,
+                                                                                "restriction": {
+                                                                                                "percentage": 0.710000,
+                                                                                                "type": "Standard"
+                                                                                }
+                                                                }
+                                                ],
+                                                "matchingTarget": [{
+                                                                "accountID": "Acc-1001",
+                                                                "percentage": 0.370000
+                                                }],
+                                                "retirementLoan": [{
+                                                                                "amount": 6082.200000,
+                                                                                "endDate": "",
+                                                                                "interestRate": 0.610000,
+                                                                                "monthlyPayment": 17695.800000,
+                                                                                "startDate": ""
+                                                                },
+                                                                {
+                                                                                "amount": 2044.700000,
+                                                                                "endDate": "",
+                                                                                "interestRate": 0.660000,
+                                                                                "monthlyPayment": 19638.630000,
+                                                                                "startDate": ""
+                                                                }
+                                                ],
+                                                "jobProfitSharing": {
+                                                                "percentage": 0.510000
+                                                },
+                                                "savingsPlan": {
+                                                                "savingsRatePrecision": "Hundredth",
+                                                                "amount": {
+                                                                                "inflationAdjustment": "Now",
+                                                                                "value": 6883.600000
+                                                                },
+                                                                "smart": {
+                                                                                "endSavingsValue": 24277.500000,
+                                                                                "savingsRateIncreasePeriod": 18059,
+                                                                                "savingsRateIncreaseValue": 36.750000,
+                                                                                "startSavingsValue": 21697.470000,
+                                                                                "startYear": 5071
+                                                                }
+                                                }
+                                }]
+                }],
+                "riskLevel": 3.14
+}

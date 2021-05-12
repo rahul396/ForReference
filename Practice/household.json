@@ -1,0 +1,117 @@
+{
+  "accounts": 
+    {
+        "account": [
+          {
+            "accountDefinitionName": "Monica IRA",
+            "advisableGMWB": "aaaaaaaaaaaaaaaaaaa",
+            "annualFee": 0.52,
+            "applySRA": "t",
+            "commission": 0.7,
+            "endYear": 2030,
+            "feeType": "Taxable",
+            "fundLineupIdentifier": "P_PNP_0004024",
+            "id": "98960-01~Pretax401k",
+            "name": "BROWN ORANGE RED~98960-01",
+            "rkEnrollmentType": "Advice",
+            "rate": 0.88,
+            "smartEnabled": true,
+            "smartIncrementDefinition": "Dollars",
+            "startYear": 2018,
+            "surrenderChargeYear": 2026,
+            "transientAccountSessionId": "AKOP400419236",
+            "transientAccountSessionToken": "AKOP400419236",
+            "holdingsBalance": 78000,
+            "holdingsBasis": 50000,
+            "jobName": "Software Engineer",
+            "planID": "98960-01",
+            "additionalLimits": {
+              "additionalLimit": [
+                {
+                  "name": "Limit for this role"
+                }
+              ]
+            },
+            "annuity": {
+              "air": 0.2,
+              "annuityTaxType": "MixedTax",
+              "beneficiaryPercentage": 0.22,
+              "inflationType": "Now",
+              "lifetimeCap": 5201.26,
+              "lifetimeFloor": 3446.96,
+              "payment": 321.64,
+              "paymentStartYear": 15498,
+              "periodCertain": 11267,
+              "periodFloor": -0.02,
+              "salesTax": 0.65
+            },
+            "gmwbOptions": {
+              "benefitBaseCap": 6169.48,
+              "highWaterMark": 3055.39,
+              "maximumAnnualWithdrawalPercentage": 0.03,
+              "riderContinuesForSpouse": false,
+              "riderFeePercentage": 0.28,
+              "stepUpEndPoint": 18631,
+              "withdrawalStarted": true
+            },
+            "holdings": [
+              {
+                "fundUniqueIdentifier": "Fixed Identifier",
+                "weight": 0.07,
+                "restriction": {
+                  "percentage": 0.95,
+                  "type": "Standard"
+                }
+              },
+              {
+                "fundUniqueIdentifier": "Variable Identifier",
+                "weight": 0.77,
+                "restriction": {
+                  "percentage": 0.71,
+                  "type": "Standard"
+                }
+              }
+            ],
+            "matchingTarget": [
+              {
+                "accountID": "Acc-1001",
+                "percentage": 0.37
+              }
+            ],
+            "retirementLoan": [
+              {
+                "amount": 6082.2,
+                "endDate": "",
+                "interestRate": 0.61,
+                "monthlyPayment": 17695.8,
+                "startDate": ""
+              },
+              {
+                "amount": 2044.7,
+                "endDate": "",
+                "interestRate": 0.66,
+                "monthlyPayment": 19638.63,
+                "startDate": ""
+              }
+            ],
+            "jobProfitSharing": {
+              "percentage": 0.51
+            },
+            "savingsPlan": {
+              "savingsRatePrecision": "Hundredth",
+              "amount": {
+                "inflationAdjustment": "Now",
+                "value": 6883.6
+              },
+              "smart": {
+                "endSavingsValue": 24277.5,
+                "savingsRateIncreasePeriod": 18059,
+                "savingsRateIncreaseValue": 36.75,
+                "startSavingsValue": 21697.47,
+                "startYear": 5071
+              }
+            }
+          }
+        ]
+      }
+}
